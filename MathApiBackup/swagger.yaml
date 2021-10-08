@@ -20,7 +20,7 @@ paths:
     get:
       tags:
       - developers
-      summary: searches inventory
+      summary: searches inventory data
       description: "By passing in the appropriate options, you can search for\navailable\
         \ inventory in the system\n"
       operationId: searchInventory
