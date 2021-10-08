@@ -1,0 +1,19 @@
+---
+swagger: "2.0"
+info:
+  description: Create Api for Bus Management
+  version: 1.0.0
+  title: BusServiceApI
+host: virtserver.swaggerhub.com
+basePath: /abc9629/BusServiceApI/1.0.0
+schemes:
+- https
+paths:
+  /bus/search:
+    get:
+      tags:
+      - Hotel
+      summary: Fetch Srvice
+      description: Test Servoice
+      parameters: []
+      responses: {}
